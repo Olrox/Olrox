@@ -1,16 +1,25 @@
-### Hi there 👋
+# Israel-Ray
+Carta de presentación
 
-<!--
-**Olrox/Olrox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola mi nombre es Israel Raymundo, ingeniero en proceso de la carrera "Ingeniería
+en Computación" en la Facultad de Ingeniería de la UNAM, soy un entuciasta de los
+videojuegos y el desarrollo de los mismos,  actualmente soy el vicepresidente
+de la Sociedad de Desarrollo en Videojuegos (SODVI), donde participo en
+la evaluación de proyectos realizados en SODVI así como me involucro en la
+coordinación de eventos, proyectos y gestion de la misma sociedad.
 
-Here are some ideas to get you started:
+A lo largo de mi estadía en mi carrera y en SODVI he aprendido diversas
+habilidades como lo son: soluciones eficientes para los problemas que se puedan
+presentar, trabajo en equipo,  tambien he aprendido a usar herramientas para el
+desarrollo en videojuegos, como lo es  Unity  cuanto a motor gáfico, al igual que
+tengo nociones básicas en cuanto al apartado artístico del desarrollo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Manejo algunos lenguajes de programación, los cuales son: Python, JAVA Script,
+php, c, c++ y c#, en estos ultimos cuento con un certificado de "Programacion en
+c# para videojuegos" y "Unity básico".
+
+Actualmente me encuentro trabajamdo en algunos proyectos. Lidero un proyecto de
+modelaje de un laboratorio de la Facultad de Ingeniería, tambien formo parte de
+un equipo que esrá iniciando con un metaverso. Tambien desarrolle un juego
+endless runner llamado "Hugga Bugga", y estoy desarrollando un FPS llamado "Sushi
+hunt"
