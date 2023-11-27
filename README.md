@@ -23,3 +23,19 @@ modelaje de un laboratorio de la Facultad de Ingeniería, tambien formo parte de
 un equipo que esrá iniciando con un metaverso. Tambien desarrolle un juego
 endless runner llamado "Hugga Bugga", y estoy desarrollando un FPS llamado "Sushi
 hunt"
+
+# Proyectos trabajados
+
+Como amante de los videojuegos me he interesado por el desarrollo de los mismos,
+tanto así que he creado uno que otro proyecto personal, mas abajo dejo unas 
+pequeñas muestras del trabajo que he realizado, donde se puede apreciar un poco mi 
+estilo y arte de crear videojuegos.
+
+- Huga Bugga
+  ![MainMenu](D:/Unity/Imagenes/HugaBugga.png)
+  ![InGame](D:/Unity/Imagenes/HugaBugga1.png)
+
+- Midnight Assault
+  ![InGame](D:/Unity/Imagenes/MidnightAssault.png)
+- Fear or lies
+  ![InGame](D:/Unity/Imagenes/GatoRun.gif)
