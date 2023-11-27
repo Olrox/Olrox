@@ -32,10 +32,10 @@ pequeñas muestras del trabajo que he realizado, donde se puede apreciar un poco
 estilo y arte de crear videojuegos.
 
 - Huga Bugga
-  ![MainMenu](D:/Unity/Imagenes/HugaBugga.png)
-  ![InGame](D:/Unity/Imagenes/HugaBugga1.png)
+  ![MainMenu](D:\Unity\Imagenes\HugaBugga.png)
+  ![InGame](D:\Unity\Imagenes\HugaBugga1.png)
 
 - Midnight Assault
-  ![InGame](D:/Unity/Imagenes/MidnightAssault.png)
+  ![InGame](D:\Unity\Imagenes\MidnightAssault.png)
 - Fear or lies
-  ![InGame](D:/Unity/Imagenes/GatoRun.gif)
+  ![InGame](D:\Unity\Imagenes\GatoRun.gif)
